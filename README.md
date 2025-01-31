@@ -10,7 +10,7 @@ x2 Nails
 
 1x Case
 
-usb C cable
+USB C cable
 # Optianal
 
 1x Solar Panel
@@ -23,7 +23,9 @@ usb C cable
 
 setup with home assistant if not setup with homeassitant already
 
-if not connected to wifi already, connect to wifi
+Connect To PC with USB C Cable
+
+Install code Via USB
 
 get 2 wires and strip them
 
