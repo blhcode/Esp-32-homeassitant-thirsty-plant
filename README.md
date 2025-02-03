@@ -13,10 +13,6 @@ x2 Nails
 USB C cable
 # Optianal
 
-1x Solar Panel
-
-1x Esp-32 terminal block breakout board
-
 1x Batterry Pack
 
 # Setup
@@ -37,9 +33,9 @@ conect the other to D2
 
 If you are using the batterry Pack,Connect positive to vin and negitave to ground
 
-If you are using a solar solar panel (Needs To Be Uased With Battery Pack), connect it the same way as done with the batteries
+If batterrys are not in use, you can power it via usb
 
-put batteries in the battery holder (Use Rechargable batterries If Being Used With Solar Panel)
+put batteries in the battery holder
 
 Put the esp_32 and batterry holder in the case
 
